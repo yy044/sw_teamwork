@@ -12,7 +12,7 @@
 
 ### 3. 1주차
 - 주제 선정: Java를 통해 노노그램 게임 프로그램 구현
-- 틀 만들기: Java 프로그램에서 사용할 class 지정, mvc 아키텍쳐 제작
+- 틀 만들기: Java 프로그램에서 사용할 class 지정, 역할 분배
 
 ### 4. 2주차
 - 구현: 5x5 로직 (완료)
@@ -23,6 +23,8 @@
 - 구현 : SelectLevel(단계 선택) (완료)
 
 ### 6. 4주차
-- 구현 : ResultFrame(결과창) ()
-- 개선 : SelectLevel UI ()
-- 개선 : BoardFrame UI ()
+- 구현 : ResultFrame(결과창), MoreButtonR, ExitButton (완료)
+- 구현 : Moksum, LoseFrame, MoreButtonL (완료)
+- 구현 : OButton, XButton (완료)
+- 개선 : SelectLevel UI (완료)
+- 개선 : BoardFrame UI (완료)
