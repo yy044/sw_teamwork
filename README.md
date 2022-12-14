@@ -11,23 +11,28 @@
 ![205757632-bec8f180-f9a6-4c01-a589-b5f0c23c5e37](https://user-images.githubusercontent.com/115619689/205757846-26ca8bdb-4ae3-435f-91b5-7a7517faede3.png)
 
 ### 3. 1주차
+- 팀 구성
 - 주제 선정: Java를 통해 노노그램 게임 프로그램 구현
-- 틀 만들기: Java 프로그램에서 사용할 class 지정, 역할 분배
+- 틀 만들기: Java 프로그램에서 사용할 class 지정, Frame UI 짜기
 
 ### 4. 2주차
-- 구현: 5x5 로직 (완료)
+- 구현: 5 X 5 로직 (완료)
+- 구현: 10 X 10 로직 (완료)
+- 레벨 별 게임에 들어가는 이미지 4개씩 추가 (랜덤한 이미지가 나타남)
 
 ### 5. 3주차
-- 구현 : 10 X 10 로직 (완료)
-- 구현 : 15 X 15 로직 (완료)
-- 구현 : SelectLevel(단계 선택) (완료)
+- 구현: 15 X 15 로직 (완료)
+- 구현: SelectLevel (완료) / 세 가지 레벨 중 하나를 고를 수 있는 Frame
+- 구현: WestCount, NorthCount (완료) /  왼쪽과 위쪽 숫자를 게임 보드에 구현
 
 ### 6. 4주차
-- 구현 : ResultFrame, MoreButtonR, ExitButton (완료)
-- 구현 : Moksum, LoseFrame, MoreButtonL (완료)
-- 구현 : OButton, XButton (완료)
-- 개선 : SelectLevel UI (완료)
-- 개선 : BoardFrame UI (완료)
+- 게임을 플레이하면서 승리 또는 실패 시 나오는 결과창 구현
+- 임시 x 표시 및 답 체크 기능, 목숨 카운트 기능 추가
+- 구현: ResultFrame, MoreButtonR, ExitButton (완료)
+- 구현: Moksum, LoseFrame, MoreButtonL (완료)
+- 구현: OButton, XButton (완료)
+- 개선: SelectLevel UI (완료)
+- 개선: BoardFrame UI (완료)
 
 ### 7. 결과물
 ![open1](https://user-images.githubusercontent.com/115148838/207522221-b6380021-b42a-4961-94ef-6ec27c186453.png)
