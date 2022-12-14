@@ -32,21 +32,21 @@
 ### 7. 결과물
 ![open1](https://user-images.githubusercontent.com/115148838/207522221-b6380021-b42a-4961-94ef-6ec27c186453.png)
 - SelectLevel:
-게임 레벨을 고르는 Frame
+게임 레벨을 고르는 Frame /
 각 레벨 버튼을 누르면 해당 레벨의 BoardFrame을 불러옴
 ![open2](https://user-images.githubusercontent.com/115148838/207522298-d439a1d5-41a8-4112-8355-1aef4acba18f.png)
 - BoardFrame:
-게임을 플레이하는 Frame
-3번의 기회 카운트
-임시 x 표시 버튼과 정답 표시 o 버튼
+게임을 플레이하는 Frame /
+3번의 기회 카운트 /
+임시 x 표시 버튼과 정답 표시 o 버튼 /
 위와 왼쪽에 적힌 숫자를 보고 게임 플레이
 ![open3](https://user-images.githubusercontent.com/115148838/207522336-154e2881-5435-47a3-a088-0c21647b14ce.png)
 - ResultFrame:
-게임 승리 시 결과를 보여주는 Frame
-More 버튼을 누르면 새 게임
+게임 승리 시 결과를 보여주는 Frame /
+More 버튼을 누르면 새 게임 /
 Exit 버튼을 누르면 게임 종료
 ![open4](https://user-images.githubusercontent.com/115148838/207522373-19f27f87-c3a3-484e-bb62-6d738b64bef7.png)
 -	LoseFrame:
-게임 패배 시 결과를 보여주는 Frame
-More 버튼을 누르면 새 게임
+게임 패배 시 결과를 보여주는 Frame /
+More 버튼을 누르면 새 게임 /
 Exit 버튼을 누르면 게임 종료
